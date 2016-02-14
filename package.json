@@ -1,0 +1,19 @@
+{
+  "name": "es2015",
+  "version": "0.1.0",
+  "description": "Repository for ES2015 (ES6) samples and experiments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es2015",
+    "es6"
+  ],
+  "author": "Andreas Hoffmann",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0"
+  }
+}
